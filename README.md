@@ -1,6 +1,6 @@
 # Compliance Radar Project
 
-**Course:** Machine Learning (2025/2026)
+**Course:** Machine Learning (2025/2026)  
 **Captain:** Arnur Yembergen / 321091  
 **Team members:**
 - Daniiyar Dussembayev / 303501
