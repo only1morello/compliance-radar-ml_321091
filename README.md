@@ -1,9 +1,9 @@
 # Compliance Radar Project
 
 **Captain:** Arnur Yembergen / 321091  
-**Team members:** 
-· Daniyar Dyussembayev / 303501
-· Temirlan Zorlykbayev / 322371
+**Team members:**
+- Daniiyar Dussembayev / 303501
+- Temirlan Zorky bayev / 322371
 
 **Course:** Machine Learning (2025/2026)
 
