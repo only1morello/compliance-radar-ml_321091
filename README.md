@@ -2,10 +2,6 @@
 
 **Course:** Machine Learning (2025/2026)  
  
-**Team members:**
-* Arnur Yembergen (Captain) / 321091
-* Daniyar Dyussembayev / 303501
-* Temirlan Zorlykbaev / 322371
 
 ## 1. Introduction: The Problem
 In corporate governance, "compliance risk" is often a lagging indicator; you only find out something is wrong after an audit fails. The goal of this project is to predict high-risk departments *before* an audit occurs. 
